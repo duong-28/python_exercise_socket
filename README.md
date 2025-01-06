@@ -1,6 +1,5 @@
 # Text Filtering Client-Server Application
 
-## Introduction
 This project consists of a client-server application written in Python. The server filters out offensive words from the text messages sent by the client. The client sends messages to the server, and the server responds with the filtered version of the message. This application demonstrates basic socket programming in Python.
 
 ### Running the Server
